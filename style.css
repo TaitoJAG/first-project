@@ -2,3 +2,17 @@
     background-color: blueviolet;
     margin-top: auto;
 }
+
+.line {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    position: absolute;
+    background-color: beige;
+    
+
+}
